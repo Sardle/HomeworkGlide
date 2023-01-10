@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HomeworkGlide</string>
+    <string name="description">Вы просмотрели все картинки, нажмите на кнопку, чтобы начать просмотр заново</string>
+    <string name="add_image">Получить картинку!</string>
 </resources>
